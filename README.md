@@ -1,4 +1,5 @@
-# AppVerifier
+ai.moises
+E1:DF:5C:33:E6:32:AA:CD:3C:41:F6:71:87:BB:13:39:87:F1:4F:03:28:DA:74:1F:2D:CE:E1:C9:1C:C5:74:29# AppVerifier
 
 AppVerifier is an app signing certificate hash viewer and verifier.\
 It enables you to easily verify that your apps are genuine with others!
